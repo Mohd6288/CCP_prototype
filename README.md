@@ -19,7 +19,7 @@
    git clone https://github.com/mohd6288/CCP_prototype.git
 
 2. use Toachdesiner and run CC_prototybe.toe
-3. make sure the Mediapipe is working is not you could use reset button
+3. make sure the Mediapipe is working if not you could use reset button
    
    ![Screenshot 2025-01-06 153152](https://github.com/user-attachments/assets/d8d9f9a5-c956-4d93-990b-409c5eb27495)
 
