@@ -3,7 +3,7 @@
 ## Overview
 
 **CCP Prototype** is an interactive installation built using [TouchDesigner](https://derivative.ca/), incorporating real-time pose tracking with Mediapipe. The project allows multiple users to engage with dynamic visuals and audio, responding to their movements seamlessly.
-Download: [here] (https://derivative.ca/download)
+Download: [here](https://derivative.ca/download).
 ## Features
 
 - **Real-Time Pose Tracking:** Utilizes Mediapipe for accurate multi-pose detection.
